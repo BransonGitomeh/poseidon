@@ -1,4 +1,4 @@
-posidon theme html5 rip off, ontop of a node server
+Posidon templete[http://themewar.com/html/poseidon/] html5 rip off, ontop of a node server
 
 aim is to make a html5 template that can be thrown to any company for cash and it still looks good nomatter the customisation done to it. So i make it customisable.
 
